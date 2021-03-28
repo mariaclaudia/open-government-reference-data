@@ -11,14 +11,14 @@ An attempt at tracking states of the art(s) and recent developments on open refe
 
 
 
-| Owner | Description | Format          | Published | Notes   |
-| :------------- | :------------- | :------------- | :-------- | :-----: |
-| 5.83% | 12.69% | *Humans* [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](http://arxiv.org/abs/1512.02595v1) | December 2015 | *Humans* |
+| Name | Type  | Notes | Link   |
+| :------------- | :------------- | :-------- | :-----: |
+|Geonames| Community | The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge. | https://www.geonames.org/ |
 
 
 
 ## Tools
-| Owner | Name | Description | Notes | Link  |
+| Provider | Name | Description | Notes | Link  |
 | :------------- | :------------- | :------------- | :-------- | :-----: |
 | OP Publication office| CELLAR | The CELLAR is the common repository of content managed by the Publications Office. It contains the files and the metadata of various collections of documents.| | |
 
