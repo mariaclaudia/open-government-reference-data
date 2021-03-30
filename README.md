@@ -8,12 +8,11 @@ An attempt at tracking states of the art(s) and recent developments on open refe
 ## Data
 
 
+Providers | Category | Notes
+--- | --- | ---
 
-| Providers | Assetts  | Notes | Link   |
-| :------------- | :------------- | :-------- | :-----: |
-|Geonames| geo data | The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge. | https://www.geonames.org/ |
-| ESTAT - Gisco | geo data | Administrative Units <br /> Statistical Units <br /> Population distribution <br /> Demography <br /> Transport Networks <br /> Land Cover <br /> Elevation (DEM) | https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data  |
-
+|[Geonames](https://www.geonames.org)| geo data | The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge. | 
+|[ESTAT - Gisco](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data ) | geo data | Administrative Units <br /> Statistical Units <br /> Population distribution <br /> Demography <br /> Transport Networks <br /> Land Cover <br /> Elevation (DEM) 
 
 ## Tools and interface
 | Provider | Name | Description | Notes | Link  |
