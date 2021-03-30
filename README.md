@@ -3,7 +3,7 @@ open reference data from the public sector
 
 Where we are?
 
-An attempt at tracking states of the art(s) and recent developments on open reference data from the public sector. *Feel free to correct!*
+An attempt at tracking states of the art(s) and recent developments on open reference data from the public sector. *Feel free to contribute!*
 
 ## Providers
 
