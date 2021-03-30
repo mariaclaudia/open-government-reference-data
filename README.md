@@ -23,4 +23,4 @@ Providers | Category | Notes
 
 ## References
 
-- Publication Office of the EU - [The European Data Conference on Reference data and semantics] (https://op.europa.eu/en/web/endorse/conference-documents), 16/19 March 2021  
+- Publication Office of the EU - [The European Data Conference on Reference data and semantics](https://op.europa.eu/en/web/endorse/conference-documents), 16/19 March 2021  
